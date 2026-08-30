@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Logs and runtime files
+bot.log
+*.log
+bot.pid
+*.pid
+
+# Temporary directories and build files
+temp_files/
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
